@@ -1,0 +1,5 @@
+- "!include public_address.yaml"
+- "!include public_article.yaml"
+- "!include public_author.yaml"
+- "!include public_author1.yaml"
+- "!include public_demo.yaml"

@@ -1,0 +1,7 @@
+version: 3
+endpoint: https://rich-duck-35.hasura.app
+admin_secret: URctXV6CZHyr6cajERE0OEjsr0Vdghvjap1IcFx5PKTiW0ctxM1KF1EZnXE4J5o9
+metadata_directory: metadata
+actions:
+  kind: synchronous
+  handler_webhook_baseurl: http://localhost:3000
